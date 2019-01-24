@@ -1,0 +1,33 @@
+<svg width="200" height="45" transform="translate(29,9) scale(1.25) " xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="2" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+
+  <defs>
+   <linearGradient id="svg_14">
+    <stop stop-color="#191654" offset="5%"/>
+    <stop stop-color="#43c6ac" offset="95%"/>
+   </linearGradient>
+  </defs>
+  <rect transform="matrix(0.9106318167335925,0,0,0.822702423057965,-24.483393422158237,0) " rx="4" height="40" width="170" y="-1.109478" x="27.052271" fill="url(#svg_14)" id="svg_13"/>
+
+<g transform="translate(0,4)">
+  <g id="svg_16" fill="#FFF" transform="matrix(0.00822702404669133,0,0,-0.00822702404669133,2.4681072691738946,22.212965422565055) ">
+   <path id="svg_17" d="m1170.076225,2350.947845c-413,-52 -762,-327 -912,-716c-53,-138 -70,-236 -69,-404c0,-321 116,-589 349,-810c154,-147 327,-237 547,-287c98,-22 346,-22 444,0c235,53 401,144 569,311c167,168 258,334 311,569c22,98 22,346 0,444c-53,235 -144,401 -311,569c-136,136 -266,218 -436,274c-140,47 -350,68 -492,50zm286,-450c155,-23 281,-86 392,-195c194,-192 219,-468 66,-715c-55,-89 -182,-220 -271,-280c-79,-53 -208,-113 -281,-131c-127,-31 -281,-13 -400,47c-146,73 -274,269 -314,483c-46,244 5,423 169,586c168,168 392,240 639,205z"/>
+   <path id="svg_18" d="m1210.076225,1749.947845c-205,-23 -354,-134 -419,-314c-18,-49 -22,-82 -23,-180c0,-134 16,-212 64,-310c96,-198 323,-276 580,-199c175,52 355,199 427,349c37,78 38,82 38,195c0,110 -2,119 -32,181c-96,195 -358,309 -635,278zm299,-171c175,-44 185,-295 16,-395c-45,-26 -57,-28 -175,-31c-120,-4 -127,-5 -131,-25c-3,-12 -13,-68 -23,-124l-17,-103l-74,0c-51,0 -73,4 -73,12c0,15 110,647 115,666c6,16 297,17 362,0z"/>
+   <path id="svg_19" d="m1277.076225,1458.947845c-2,-7 -9,-44 -15,-83c-7,-38 -14,-78 -17,-87c-4,-16 5,-18 84,-18c107,0 146,18 163,77c16,52 0,90 -45,108c-43,19 -164,20 -170,3z"/>
+  </g>
+
+  <text stroke="#000" font-style="italic" font-weight="100" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_21" y="15.852501" x="26.30802" stroke-width="0" fill="#ffffff">Deploy to Paperspace</text>
+ </g>
+ </g>
+</svg>
